@@ -24,6 +24,8 @@ Replace/Add files in src/ folder
 
 Create a new file: RuleBasedChatbot.tsx → paste the chatbot component code I gave you.
 now your App.tsx will look the same as mine
+
+
 export default App;
 
 
